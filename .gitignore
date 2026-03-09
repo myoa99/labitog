@@ -1,0 +1,51 @@
+# Build folders
+build/
+cmake-build-*/
+out/
+bin/
+dist/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+CTestTestfile.cmake
+Testing/
+
+# Object files
+*.o
+*.obj
+*.so
+*.a
+*.lib
+*.dll
+*.dylib
+*.exe
+*.out
+*.app
+
+# Debug symbols / logs
+*.log
+*.tmp
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+
+# CLion
+*.iml
+
+# Xcode / macOS
+.DS_Store
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.sln.docstates
+
+# Temporary / backup files
+*~
